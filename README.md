@@ -4,6 +4,7 @@
 A collection of Python programs and mini projects created while learning Python during my B.Tech (IT) journey.
 
 About:-
+
 This repository contains Python exercises and small projects covering:
 
 Basics (variables, data types, input/output)
