@@ -7,7 +7,7 @@ b = 3
 # Addition
 addition = a + b
 print(f"Addition: {a} + {b} = {addition}")
-// use print f to directly print the result as whole like shown above , good shortcut 
+# use print f to directly print the result as whole like shown above , good shortcut 
 
 # Subtraction
 subtraction = a - b
@@ -32,3 +32,4 @@ print(f"Modulus: {a} % {b} = {modulus}")
 # Exponentiation
 exponentiation = a ** b
 print(f"Exponentiation: {a} ** {b} = {exponentiation}")
+
