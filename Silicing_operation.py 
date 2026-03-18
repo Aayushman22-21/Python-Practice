@@ -1,0 +1,13 @@
+sample_string = "Hello, World!" 
+# Slicing the string to get "Hello"
+# Demonstarte different slicing operations 
+print("Original string:", sample_string)
+#Extract a substring using positive indices
+print("Substring (0 to 5):", sample_string[0:5])
+#Extract a substring using negative indices
+print("Substring (-6 to -1):", sample_string[-6:-1])
+# Using step values 
+print("Every second character(0:len:2):", sample_string[0:len(sample_string):2])
+#Omitting start and end indices 
+print("Every start to index 5(:5):", sample_string[:5])
+print("Every index 7 to end(7:):", sample_string[7:])
